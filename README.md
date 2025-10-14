@@ -2,9 +2,6 @@
 
 # Vanity Number Generator
 
-## Want to try it out?!
-If you'd like me to provide the phone number you can call in order to generate your vanity numbers, please feel free to email me at daniel.jakob.jackson@gmail.com or reach out to me on [LinkedIn](https://www.linkedin.com/in/daniel-jacks/).
-
 ## About the Project
 I developed this project to gain a deeper understanding of Amazon Connect, DynamoDB, and Lambdas, and how these various AWS services can be constructed and tested locally before being deployed with the help of the AWS SAM CLI. <br />
 
